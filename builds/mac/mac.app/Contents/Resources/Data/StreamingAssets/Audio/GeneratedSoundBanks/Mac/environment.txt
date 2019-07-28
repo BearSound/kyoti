@@ -1,0 +1,96 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1045155115	gusts			\Default Work Unit\environment\wind\gusts	
+	1572484541	well			\Default Work Unit\environment\water\well	
+	1931646578	campFire			\Default Work Unit\environment\fire\campFire	
+	2337133864	birdChirp			\Default Work Unit\environment\birdSong\birdChirp	
+	2484129336	stopCrane			\Default Work Unit\misc\stopCrane	
+	2525710202	underTheShadow			\Default Work Unit\triggerEvents\crane\underTheShadow	
+	2859689529	skullDissonance			\Default Work Unit\environment\skull\skullDissonance	
+	3885109967	birdOfPrey			\Default Work Unit\environment\birdOfPrey\birdOfPrey	
+	3886820807	birdSong			\Default Work Unit\environment\birdSong\birdSong	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2525710202	underTheShadow			\Default Work Unit\underTheShadow	
+
+State	ID	Name	State Group			Notes
+	0	None	underTheShadow			
+	1935470627	light	underTheShadow			
+	3140781661	shadow	underTheShadow			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	849240914	light	underTheShadow	\Actor-Mixer Hierarchy\Default Work Unit\musicalSound\underTheShadow		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2540450804	storminess			\Default Work Unit\storminess	
+	4168635916	openness			\Default Work Unit\openness	
+
+Effect plug-ins	ID	Name	Type				Notes
+	15171061	Wwise Guitar Distortion (Custom)	Wwise Guitar Distortion			
+	427092296	Wwise Guitar Distortion (Custom)	Wwise Guitar Distortion			
+	506891147	Plate_Small	Wwise RoomVerb			
+	702543456	Tunnel1	Wwise Matrix Reverb			
+	819943492	Fear_no_Evil	Wwise Harmonizer			
+	903145427	Wwise Guitar Distortion (Custom)	Wwise Guitar Distortion			
+	1431209347	One_Tap_One_Second	Wwise Delay			
+	2180422931	One_Tap_Quarter_Second	Wwise Delay			
+	3407225994	Phone_Booth	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	11517105	bt_mh_birdSongCutUp_2019-002	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\bt_mh_birdSongCutUp_2019-002_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdChirp\bt_mh_birdSongCutUp_2019-002		176464
+	46950044	ybotoby_fireSound_mh_slice_2019-010	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-010_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-010		192064
+	79950458	mh_windSlice_2019-013	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-013_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-013		192064
+	82359102	mh_windSlice_2019-012	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-012_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-012		192064
+	117007298	as_rainDrop-2	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\as_rainDrop-2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\water\wellDroplet\as_rainDrop-2		27752
+	127782913	mh_windSlice_2019-002	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-002_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-002		192064
+	128039042	ybotoby_fireSound_mh_slice_2019-002	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-002_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-002		192064
+	133893932	mh_windSlice_2019-031	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-031_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-031		192064
+	135061034	ybotoby_fireSound_mh_slice_2019-004	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-004_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-004		192064
+	169351384	as_rainDrop	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\as_rainDrop_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\water\wellDroplet\as_rainDrop		20698
+	184752196	bt_mh_birdSongCutUp_2019-004	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\bt_mh_birdSongCutUp_2019-004_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdChirp\bt_mh_birdSongCutUp_2019-004		176464
+	206254614	mh_windSlice_2019-010	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-010_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-010		192064
+	217856946	mh_windSlice_2019-004	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-004_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-004		192064
+	222104847	ybotoby_fireSound_mh_slice_2019-008	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-008_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-008		192064
+	227445971	mh_windSlice_2019-022	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-022_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-022		192064
+	233859374	te_smoothscrape_21	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\te_smoothscrape_21_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdOfPrey\te_smoothscrape_21		72064
+	266564092	mh_windSlice_2019-017	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-017_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-017		192064
+	276083945	mh_windSlice_2019-003	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-003_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-003		192064
+	288920958	mh_windSlice_2019-020	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-020_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-020		192064
+	384215645	mh_windSlice_2019-011	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-011_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-011		192064
+	404089615	fzs_droponwater_01	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\fzs_droponwater_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\water\wellDroplet\fzs_droponwater_01		22698
+	410614308	mh_windSlice_2019-005	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-005_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-005		192064
+	421429446	bt_mh_birdSongCutUp_2019-003	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\bt_mh_birdSongCutUp_2019-003_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdChirp\bt_mh_birdSongCutUp_2019-003		176464
+	424760112	mh_windSlice_2019-006	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-006_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-006		192064
+	425405864	mh_windSlice_2019-029	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-029_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-029		192064
+	464937152	mh_windSlice_2019-023	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-023_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-023		192064
+	517117217	mh_windSlice_2019-001	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-001_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-001		192064
+	547539206	ybotoby_fireSound_mh_slice_2019-006	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-006_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-006		192064
+	552796275	mh_windSlice_2019-014	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-014_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-014		192064
+	558472381	mh_windSlice_2019-028	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-028_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-028		192064
+	604012886	bt_mh_birdSongCutUp_2019-005	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\bt_mh_birdSongCutUp_2019-005_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdChirp\bt_mh_birdSongCutUp_2019-005		176464
+	604949092	mh_windSlice_2019-015	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-015_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-015		192064
+	620146992	mh_windSlice_2019-027	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-027_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-027		192064
+	653114638	mh_windSlice_2019-016	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-016_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-016		192064
+	655908073	mh_gong	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_gong_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\musicalSound\skull\mh_gong		456180
+	666920279	ybotoby_fireSound_mh_slice_2019-003	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-003_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-003		192064
+	683757530	ybotoby_fireSound_mh_slice_2019-001	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-001_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-001		192064
+	688345696	mh_windSlice_2019-018	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-018_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-018		192064
+	711607896	mh_windSlice_2019-008	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-008_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-008		192064
+	774244663	mh_windSlice_2019-025	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-025_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-025		192064
+	798814353	mh_windSlice_2019-026	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-026_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-026		192064
+	798832172	ybotoby_fireSound_mh_slice_2019-007	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-007_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-007		192064
+	816024910	mh_doorNotification	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_doorNotification_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\musicalSound\underTheShadow\mh_doorNotification		674280
+	829440140	AM_voice__Gargling-Birdy-whistle_01	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\AM_voice__Gargling-Birdy-whistle_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdSong\AM_voice__Gargling-Birdy-whistle_01		844172
+	865858149	mh_windSlice_2019-009	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-009_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-009		192064
+	879141891	te_sinisterbreath_20	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\te_sinisterbreath_20_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdOfPrey\te_sinisterbreath_20		176464
+	879310631	mh_windSlice_2019-007	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-007_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-007		192064
+	883469280	bt_mh_birdSongCutUp_2019-001	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\bt_mh_birdSongCutUp_2019-001_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdChirp\bt_mh_birdSongCutUp_2019-001		176464
+	916151338	mh_windSlice_2019-030	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-030_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-030		192064
+	944779302	ybotoby_fireSound_mh_slice_2019-005	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-005_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-005		192064
+	948923725	af_waterDrop	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\af_waterDrop_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\water\wellDroplet\af_waterDrop		83344
+	957143509	mh_windSlice_2019-021	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-021_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-021		192064
+	969877405	mh_doorNotification_03	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_doorNotification_F060C29E.wem		\Actor-Mixer Hierarchy\Default Work Unit\musicalSound\mh_doorNotification_03		320180
+	980193314	ybotoby_fireSound_mh_slice_2019-009	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ybotoby_fireSound_mh_slice_2019-009_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\fire\campFire\ybotoby_fireSound_mh_slice_2019-009		192064
+	980731443	mh_windSlice_2019-024	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-024_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-024		192064
+	980820514	mh_windSlice_2019-019	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_windSlice_2019-019_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\wind\wind00\mh_windSlice_2019-019		192064
+	985447192	bt_mh_birdSongCutUp_2019-006	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\bt_mh_birdSongCutUp_2019-006_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\birds\birdChirp\bt_mh_birdSongCutUp_2019-006		176464
+

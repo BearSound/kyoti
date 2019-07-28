@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1044338672	chestClose			\Default Work Unit\triggerEvents\chest\chestClose	
+	2892697348	chestOpen			\Default Work Unit\triggerEvents\chest\chestOpen	
+	3243765741	chopping			\Default Work Unit\triggerEvents\chopping\chopping	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	937015923	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\events\chopping\chopping\silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	147746119	AM_Bamboo-Stick_Swoosh_o1	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\AM_Bamboo-Stick_Swoosh_o1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chopping\chopping\pullBack\AM_Bamboo-Stick_Swoosh_o1		22056
+	187570687	SD_choppingBoard_04	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\SD_choppingBoard_04_E9F1CDE0.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chopping\chopping\hit\SD_choppingBoard_04		34800
+	294087102	AM_Bamboo-Stick_Swoosh02	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\AM_Bamboo-Stick_Swoosh02_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chopping\chopping\pullBack\AM_Bamboo-Stick_Swoosh02		26032
+	305575774	sound_25	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\sound_25_C592C7B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chopping\chopping\hit\sound_25		34976
+	322220793	KBMH_Door_Close_1	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\KBMH_Door_Close_1_6F700CD7.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chest\chestClose\KBMH_Door_Close_1		119192
+	351740601	KBMH_Door_Open_1	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\KBMH_Door_Open_1_612FE5F0.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chest\chestOpen\KBMH_Door_Open_1		146696
+	766458773	AM_Bamboo-Stick_Swoosh03	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\AM_Bamboo-Stick_Swoosh03_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chopping\chopping\pullBack\AM_Bamboo-Stick_Swoosh03		20448
+	826502494	KBMH_Door_close_2	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\KBMH_Door_close_2_15749F7C.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chest\chestClose\KBMH_Door_close_2		118712
+	1037156008	KBMH_Door_Open_2	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\SFX\KBMH_Door_Open_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\events\chest\chestOpen\KBMH_Door_Open_2		192064
+

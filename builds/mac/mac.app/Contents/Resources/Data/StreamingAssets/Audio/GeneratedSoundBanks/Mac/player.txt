@@ -1,0 +1,46 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1548130050	jumpLand			\Default Work Unit\player\jumpLand	
+	1844425226	jumpUp			\Default Work Unit\player\jumpUp	
+	2385628198	footsteps			\Default Work Unit\player\footsteps	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	material			\Default Work Unit\material	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	sand	material			
+	2058049674	wood	material			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	9507948	ylg_footstepsWood_cut-region_10	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_10_D76AAD73.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_10		29968
+	71438769	ylg_footstepsWood_cut-region_03	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_03_39FD0CF6.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_03		35296
+	77161156	MH_Footsteps_Boots_Gravel_Step_1	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Boots_Gravel_Step_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsBoot\MH_Footsteps_Boots_Gravel_Step_1		293532
+	82281851	MH_Footsteps_Trainer_Gravel_3	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_3		265216
+	93368146	ylg_footstepsWood_cut-region_12	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_12_67B861A4.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_12		35828
+	106090766	mh_jumpSounds_2019-00	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_jumpSounds_2019-00_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\physicalJump\jumpUp\mh_jumpSounds_2019-00		46736
+	158745698	ylg_footstepsWood_cut-region_05	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_05_B55A1C17.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_05		30560
+	188710802	mh_jumpSounds_2019-03	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_jumpSounds_2019-03_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\physicalJump\jumpUp\mh_jumpSounds_2019-03		47892
+	265041271	MH_Footsteps_Trainer_Gravel_4	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_4_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_4		265216
+	290354696	MH_Footsteps_Trainer_Gravel_5	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_5_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_5		265216
+	373216964	MH_Footsteps_Trainer_Gravel_9	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_9_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_9		265216
+	401008025	MH_Footsteps_Boots_Gravel_Step_4	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Boots_Gravel_Step_4_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsBoot\MH_Footsteps_Boots_Gravel_Step_4		303808
+	501429664	ylg_footstepsWood_cut-region_11	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_11_ECD84BAB.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_11		34408
+	516920997	MH_Footsteps_Boots_Gravel_Step_5	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Boots_Gravel_Step_5_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsBoot\MH_Footsteps_Boots_Gravel_Step_5		303808
+	549965308	ylg_footstepsWood_cut-region_02	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_02_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_02		27520
+	554665902	MH_Footsteps_Boots_Gravel_Step_3	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Boots_Gravel_Step_3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsBoot\MH_Footsteps_Boots_Gravel_Step_3		303808
+	563884404	ylg_footstepsWood_cut-region_04	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_04_269DEC88.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_04		39200
+	569177511	ylg_footstepsWood_cut-region_01	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_01		21072
+	598311712	ylg_footstepsWood_cut-region_13	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_13_6BCE9801.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_13		46156
+	624842630	ylg_footstepsWood_cut-region_07	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_07_1A0DA448.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_07		46596
+	635664616	mh_jumpSounds_2019-01	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_jumpSounds_2019-01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\physicalJump\jumpUp\mh_jumpSounds_2019-01		58468
+	645760102	MH_Footsteps_Boots_Gravel_Step_9	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Boots_Gravel_Step_9_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsBoot\MH_Footsteps_Boots_Gravel_Step_9		303616
+	648298005	MH_Footsteps_Trainer_Gravel_6	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_6_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_6		265216
+	843376716	MH_Footsteps_Trainer_Gravel7	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel7_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel7		265216
+	877775602	MH_Footsteps_Trainer_Gravel_8	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_8_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_8		265216
+	894288314	MH_Footsteps_Trainer_Gravel_2	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_2		265264
+	905680704	ylg_footstepsWood_cut-region_08	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_08_5AC6D904.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_08		52004
+	924306950	MH_Footsteps_Trainer_Gravel_1	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Trainer_Gravel_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsTrainer\MH_Footsteps_Trainer_Gravel_1		255260
+	955109315	mh_jumpSounds_2019-02	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\mh_jumpSounds_2019-02_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\physicalJump\jumpUp\mh_jumpSounds_2019-02		50204
+	979451016	MH_Footsteps_Boots_Gravel_Step_2	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\MH_Footsteps_Boots_Gravel_Step_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\jumpLand\footstepsBoot\MH_Footsteps_Boots_Gravel_Step_2		303808
+	1003811810	ylg_footstepsWood_cut-region_09	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_09_F57D3B9E.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_09		37396
+	1066987942	ylg_footstepsWood_cut-region_06	D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Mac\SFX\ylg_footstepsWood_cut-region_06_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\footsteps\footsteps\footstepsWood\ylg_footstepsWood_cut-region_06		63964
+

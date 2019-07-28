@@ -1,0 +1,16 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2525710202	underTheShadow			\Default Work Unit\underTheShadow	
+
+State	ID	Name	State Group			Notes
+	0	None	underTheShadow			
+	1935470627	light	underTheShadow			
+	3140781661	shadow	underTheShadow			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	238088383	windBus			\Default Work Unit\windBus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

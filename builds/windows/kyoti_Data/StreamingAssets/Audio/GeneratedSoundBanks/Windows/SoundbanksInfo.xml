@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\</ProjectRoot>
+		<SourceFilesRoot>D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\bearlyMatt\Wwise\Projects\mh_iseSubmission_1\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1069431850" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\player</ObjectPath>
+			<ShortName>player</ShortName>
+			<Path>player.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\player\footsteps"/>
+				<Event Id="1548130050" Name="jumpLand" ObjectPath="\Events\Default Work Unit\player\jumpLand"/>
+				<Event Id="1844425226" Name="jumpUp" ObjectPath="\Events\Default Work Unit\player\jumpUp"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="9507948" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_10.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_10_D76AAD73.wem</Path>
+				</File>
+				<File Id="71438769" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_03.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_03_39FD0CF6.wem</Path>
+				</File>
+				<File Id="77161156" Language="SFX">
+					<ShortName>MH_Footsteps_Boots_Gravel_Step_1.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Boots_Gravel_Step_1_56D34C19.wem</Path>
+				</File>
+				<File Id="82281851" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_3.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_3_56D34C19.wem</Path>
+				</File>
+				<File Id="93368146" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_12.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_12_67B861A4.wem</Path>
+				</File>
+				<File Id="106090766" Language="SFX">
+					<ShortName>mh_jumpSounds_2019-00.wav</ShortName>
+					<Path>SFX\mh_jumpSounds_2019-00_56D34C19.wem</Path>
+				</File>
+				<File Id="158745698" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_05.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_05_B55A1C17.wem</Path>
+				</File>
+				<File Id="188710802" Language="SFX">
+					<ShortName>mh_jumpSounds_2019-03.wav</ShortName>
+					<Path>SFX\mh_jumpSounds_2019-03_56D34C19.wem</Path>
+				</File>
+				<File Id="265041271" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_4.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_4_56D34C19.wem</Path>
+				</File>
+				<File Id="290354696" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_5.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_5_56D34C19.wem</Path>
+				</File>
+				<File Id="373216964" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_9.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_9_56D34C19.wem</Path>
+				</File>
+				<File Id="401008025" Language="SFX">
+					<ShortName>MH_Footsteps_Boots_Gravel_Step_4.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Boots_Gravel_Step_4_56D34C19.wem</Path>
+				</File>
+				<File Id="501429664" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_11.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_11_ECD84BAB.wem</Path>
+				</File>
+				<File Id="516920997" Language="SFX">
+					<ShortName>MH_Footsteps_Boots_Gravel_Step_5.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Boots_Gravel_Step_5_56D34C19.wem</Path>
+				</File>
+				<File Id="549965308" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_02.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_02_56D34C19.wem</Path>
+				</File>
+				<File Id="554665902" Language="SFX">
+					<ShortName>MH_Footsteps_Boots_Gravel_Step_3.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Boots_Gravel_Step_3_56D34C19.wem</Path>
+				</File>
+				<File Id="563884404" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_04.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_04_269DEC88.wem</Path>
+				</File>
+				<File Id="569177511" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_01.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_01_56D34C19.wem</Path>
+				</File>
+				<File Id="598311712" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_13.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_13_6BCE9801.wem</Path>
+				</File>
+				<File Id="624842630" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_07.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_07_1A0DA448.wem</Path>
+				</File>
+				<File Id="635664616" Language="SFX">
+					<ShortName>mh_jumpSounds_2019-01.wav</ShortName>
+					<Path>SFX\mh_jumpSounds_2019-01_56D34C19.wem</Path>
+				</File>
+				<File Id="645760102" Language="SFX">
+					<ShortName>MH_Footsteps_Boots_Gravel_Step_9.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Boots_Gravel_Step_9_56D34C19.wem</Path>
+				</File>
+				<File Id="648298005" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_6.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_6_56D34C19.wem</Path>
+				</File>
+				<File Id="843376716" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel7.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel7_56D34C19.wem</Path>
+				</File>
+				<File Id="877775602" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_8.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_8_56D34C19.wem</Path>
+				</File>
+				<File Id="894288314" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_2.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_2_56D34C19.wem</Path>
+				</File>
+				<File Id="905680704" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_08.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_08_5AC6D904.wem</Path>
+				</File>
+				<File Id="924306950" Language="SFX">
+					<ShortName>MH_Footsteps_Trainer_Gravel_1.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Trainer_Gravel_1_56D34C19.wem</Path>
+				</File>
+				<File Id="955109315" Language="SFX">
+					<ShortName>mh_jumpSounds_2019-02.wav</ShortName>
+					<Path>SFX\mh_jumpSounds_2019-02_56D34C19.wem</Path>
+				</File>
+				<File Id="979451016" Language="SFX">
+					<ShortName>MH_Footsteps_Boots_Gravel_Step_2.wav</ShortName>
+					<Path>SFX\MH_Footsteps_Boots_Gravel_Step_2_56D34C19.wem</Path>
+				</File>
+				<File Id="1003811810" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_09.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_09_F57D3B9E.wem</Path>
+				</File>
+				<File Id="1066987942" Language="SFX">
+					<ShortName>ylg_footstepsWood_cut-region_06.wav</ShortName>
+					<Path>SFX\ylg_footstepsWood_cut-region_06_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1229948536" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\environment</ObjectPath>
+			<ShortName>environment</ShortName>
+			<Path>environment.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2337133864" Name="birdChirp" ObjectPath="\Events\Default Work Unit\environment\birdSong\birdChirp"/>
+				<Event Id="3885109967" Name="birdOfPrey" ObjectPath="\Events\Default Work Unit\environment\birdOfPrey\birdOfPrey"/>
+				<Event Id="3886820807" Name="birdSong" ObjectPath="\Events\Default Work Unit\environment\birdSong\birdSong"/>
+				<Event Id="1931646578" Name="campFire" ObjectPath="\Events\Default Work Unit\environment\fire\campFire"/>
+				<Event Id="1045155115" Name="gusts" ObjectPath="\Events\Default Work Unit\environment\wind\gusts"/>
+				<Event Id="2859689529" Name="skullDissonance" ObjectPath="\Events\Default Work Unit\environment\skull\skullDissonance"/>
+				<Event Id="2484129336" Name="stopCrane" ObjectPath="\Events\Default Work Unit\misc\stopCrane"/>
+				<Event Id="2525710202" Name="underTheShadow" ObjectPath="\Events\Default Work Unit\triggerEvents\crane\underTheShadow"/>
+				<Event Id="1572484541" Name="well" ObjectPath="\Events\Default Work Unit\environment\water\well"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="11517105" Language="SFX">
+					<ShortName>bt_mh_birdSongCutUp_2019-002.wav</ShortName>
+					<Path>SFX\bt_mh_birdSongCutUp_2019-002_56D34C19.wem</Path>
+				</File>
+				<File Id="46950044" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-010.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-010_56D34C19.wem</Path>
+				</File>
+				<File Id="79950458" Language="SFX">
+					<ShortName>mh_windSlice_2019-013.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-013_56D34C19.wem</Path>
+				</File>
+				<File Id="82359102" Language="SFX">
+					<ShortName>mh_windSlice_2019-012.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-012_56D34C19.wem</Path>
+				</File>
+				<File Id="117007298" Language="SFX">
+					<ShortName>as_rainDrop-2.wav</ShortName>
+					<Path>SFX\as_rainDrop-2_56D34C19.wem</Path>
+				</File>
+				<File Id="127782913" Language="SFX">
+					<ShortName>mh_windSlice_2019-002.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-002_56D34C19.wem</Path>
+				</File>
+				<File Id="128039042" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-002.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-002_56D34C19.wem</Path>
+				</File>
+				<File Id="133893932" Language="SFX">
+					<ShortName>mh_windSlice_2019-031.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-031_56D34C19.wem</Path>
+				</File>
+				<File Id="135061034" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-004.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-004_56D34C19.wem</Path>
+				</File>
+				<File Id="169351384" Language="SFX">
+					<ShortName>as_rainDrop.wav</ShortName>
+					<Path>SFX\as_rainDrop_56D34C19.wem</Path>
+				</File>
+				<File Id="184752196" Language="SFX">
+					<ShortName>bt_mh_birdSongCutUp_2019-004.wav</ShortName>
+					<Path>SFX\bt_mh_birdSongCutUp_2019-004_56D34C19.wem</Path>
+				</File>
+				<File Id="206254614" Language="SFX">
+					<ShortName>mh_windSlice_2019-010.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-010_56D34C19.wem</Path>
+				</File>
+				<File Id="217856946" Language="SFX">
+					<ShortName>mh_windSlice_2019-004.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-004_56D34C19.wem</Path>
+				</File>
+				<File Id="222104847" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-008.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-008_56D34C19.wem</Path>
+				</File>
+				<File Id="227445971" Language="SFX">
+					<ShortName>mh_windSlice_2019-022.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-022_56D34C19.wem</Path>
+				</File>
+				<File Id="233859374" Language="SFX">
+					<ShortName>te_smoothscrape_21.wav</ShortName>
+					<Path>SFX\te_smoothscrape_21_56D34C19.wem</Path>
+				</File>
+				<File Id="266564092" Language="SFX">
+					<ShortName>mh_windSlice_2019-017.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-017_56D34C19.wem</Path>
+				</File>
+				<File Id="276083945" Language="SFX">
+					<ShortName>mh_windSlice_2019-003.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-003_56D34C19.wem</Path>
+				</File>
+				<File Id="288920958" Language="SFX">
+					<ShortName>mh_windSlice_2019-020.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-020_56D34C19.wem</Path>
+				</File>
+				<File Id="384215645" Language="SFX">
+					<ShortName>mh_windSlice_2019-011.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-011_56D34C19.wem</Path>
+				</File>
+				<File Id="404089615" Language="SFX">
+					<ShortName>fzs_droponwater_01.wav</ShortName>
+					<Path>SFX\fzs_droponwater_01_56D34C19.wem</Path>
+				</File>
+				<File Id="410614308" Language="SFX">
+					<ShortName>mh_windSlice_2019-005.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-005_56D34C19.wem</Path>
+				</File>
+				<File Id="421429446" Language="SFX">
+					<ShortName>bt_mh_birdSongCutUp_2019-003.wav</ShortName>
+					<Path>SFX\bt_mh_birdSongCutUp_2019-003_56D34C19.wem</Path>
+				</File>
+				<File Id="424760112" Language="SFX">
+					<ShortName>mh_windSlice_2019-006.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-006_56D34C19.wem</Path>
+				</File>
+				<File Id="425405864" Language="SFX">
+					<ShortName>mh_windSlice_2019-029.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-029_56D34C19.wem</Path>
+				</File>
+				<File Id="464937152" Language="SFX">
+					<ShortName>mh_windSlice_2019-023.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-023_56D34C19.wem</Path>
+				</File>
+				<File Id="517117217" Language="SFX">
+					<ShortName>mh_windSlice_2019-001.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-001_56D34C19.wem</Path>
+				</File>
+				<File Id="547539206" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-006.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-006_56D34C19.wem</Path>
+				</File>
+				<File Id="552796275" Language="SFX">
+					<ShortName>mh_windSlice_2019-014.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-014_56D34C19.wem</Path>
+				</File>
+				<File Id="558472381" Language="SFX">
+					<ShortName>mh_windSlice_2019-028.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-028_56D34C19.wem</Path>
+				</File>
+				<File Id="604012886" Language="SFX">
+					<ShortName>bt_mh_birdSongCutUp_2019-005.wav</ShortName>
+					<Path>SFX\bt_mh_birdSongCutUp_2019-005_56D34C19.wem</Path>
+				</File>
+				<File Id="604949092" Language="SFX">
+					<ShortName>mh_windSlice_2019-015.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-015_56D34C19.wem</Path>
+				</File>
+				<File Id="620146992" Language="SFX">
+					<ShortName>mh_windSlice_2019-027.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-027_56D34C19.wem</Path>
+				</File>
+				<File Id="653114638" Language="SFX">
+					<ShortName>mh_windSlice_2019-016.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-016_56D34C19.wem</Path>
+				</File>
+				<File Id="655908073" Language="SFX">
+					<ShortName>mh_gong.wav</ShortName>
+					<Path>SFX\mh_gong_56D34C19.wem</Path>
+				</File>
+				<File Id="666920279" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-003.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-003_56D34C19.wem</Path>
+				</File>
+				<File Id="683757530" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-001.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-001_56D34C19.wem</Path>
+				</File>
+				<File Id="688345696" Language="SFX">
+					<ShortName>mh_windSlice_2019-018.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-018_56D34C19.wem</Path>
+				</File>
+				<File Id="711607896" Language="SFX">
+					<ShortName>mh_windSlice_2019-008.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-008_56D34C19.wem</Path>
+				</File>
+				<File Id="774244663" Language="SFX">
+					<ShortName>mh_windSlice_2019-025.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-025_56D34C19.wem</Path>
+				</File>
+				<File Id="798814353" Language="SFX">
+					<ShortName>mh_windSlice_2019-026.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-026_56D34C19.wem</Path>
+				</File>
+				<File Id="798832172" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-007.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-007_56D34C19.wem</Path>
+				</File>
+				<File Id="816024910" Language="SFX">
+					<ShortName>mh_doorNotification.wav</ShortName>
+					<Path>SFX\mh_doorNotification_56D34C19.wem</Path>
+				</File>
+				<File Id="829440140" Language="SFX">
+					<ShortName>AM_voice__Gargling-Birdy-whistle_01.wav</ShortName>
+					<Path>SFX\AM_voice__Gargling-Birdy-whistle_01_56D34C19.wem</Path>
+				</File>
+				<File Id="865858149" Language="SFX">
+					<ShortName>mh_windSlice_2019-009.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-009_56D34C19.wem</Path>
+				</File>
+				<File Id="879141891" Language="SFX">
+					<ShortName>te_sinisterbreath_20.wav</ShortName>
+					<Path>SFX\te_sinisterbreath_20_56D34C19.wem</Path>
+				</File>
+				<File Id="879310631" Language="SFX">
+					<ShortName>mh_windSlice_2019-007.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-007_56D34C19.wem</Path>
+				</File>
+				<File Id="883469280" Language="SFX">
+					<ShortName>bt_mh_birdSongCutUp_2019-001.wav</ShortName>
+					<Path>SFX\bt_mh_birdSongCutUp_2019-001_56D34C19.wem</Path>
+				</File>
+				<File Id="916151338" Language="SFX">
+					<ShortName>mh_windSlice_2019-030.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-030_56D34C19.wem</Path>
+				</File>
+				<File Id="944779302" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-005.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-005_56D34C19.wem</Path>
+				</File>
+				<File Id="948923725" Language="SFX">
+					<ShortName>af_waterDrop.wav</ShortName>
+					<Path>SFX\af_waterDrop_56D34C19.wem</Path>
+				</File>
+				<File Id="957143509" Language="SFX">
+					<ShortName>mh_windSlice_2019-021.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-021_56D34C19.wem</Path>
+				</File>
+				<File Id="969877405" Language="SFX">
+					<ShortName>mh_doorNotification.wav</ShortName>
+					<Path>SFX\mh_doorNotification_F060C29E.wem</Path>
+				</File>
+				<File Id="980193314" Language="SFX">
+					<ShortName>ybotoby_fireSound_mh_slice_2019-009.wav</ShortName>
+					<Path>SFX\ybotoby_fireSound_mh_slice_2019-009_56D34C19.wem</Path>
+				</File>
+				<File Id="980731443" Language="SFX">
+					<ShortName>mh_windSlice_2019-024.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-024_56D34C19.wem</Path>
+				</File>
+				<File Id="980820514" Language="SFX">
+					<ShortName>mh_windSlice_2019-019.wav</ShortName>
+					<Path>SFX\mh_windSlice_2019-019_56D34C19.wem</Path>
+				</File>
+				<File Id="985447192" Language="SFX">
+					<ShortName>bt_mh_birdSongCutUp_2019-006.wav</ShortName>
+					<Path>SFX\bt_mh_birdSongCutUp_2019-006_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1381315342" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\events</ObjectPath>
+			<ShortName>events</ShortName>
+			<Path>events.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1044338672" Name="chestClose" ObjectPath="\Events\Default Work Unit\triggerEvents\chest\chestClose"/>
+				<Event Id="2892697348" Name="chestOpen" ObjectPath="\Events\Default Work Unit\triggerEvents\chest\chestOpen"/>
+				<Event Id="3243765741" Name="chopping" ObjectPath="\Events\Default Work Unit\triggerEvents\chopping\chopping"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="147746119" Language="SFX">
+					<ShortName>AM_Bamboo-Stick_Swoosh_o1.wav</ShortName>
+					<Path>SFX\AM_Bamboo-Stick_Swoosh_o1_56D34C19.wem</Path>
+				</File>
+				<File Id="187570687" Language="SFX">
+					<ShortName>SD_choppingBoard_04.wav</ShortName>
+					<Path>SFX\SD_choppingBoard_04_E9F1CDE0.wem</Path>
+				</File>
+				<File Id="294087102" Language="SFX">
+					<ShortName>AM_Bamboo-Stick_Swoosh02.wav</ShortName>
+					<Path>SFX\AM_Bamboo-Stick_Swoosh02_56D34C19.wem</Path>
+				</File>
+				<File Id="305575774" Language="SFX">
+					<ShortName>sound_25.wav</ShortName>
+					<Path>SFX\sound_25_C592C7B9.wem</Path>
+				</File>
+				<File Id="322220793" Language="SFX">
+					<ShortName>KBMH_Door_Close_1.wav</ShortName>
+					<Path>SFX\KBMH_Door_Close_1_6F700CD7.wem</Path>
+				</File>
+				<File Id="351740601" Language="SFX">
+					<ShortName>KBMH_Door_Open_1.wav</ShortName>
+					<Path>SFX\KBMH_Door_Open_1_612FE5F0.wem</Path>
+				</File>
+				<File Id="766458773" Language="SFX">
+					<ShortName>AM_Bamboo-Stick_Swoosh03.wav</ShortName>
+					<Path>SFX\AM_Bamboo-Stick_Swoosh03_56D34C19.wem</Path>
+				</File>
+				<File Id="826502494" Language="SFX">
+					<ShortName>KBMH_Door_close_2.wav</ShortName>
+					<Path>SFX\KBMH_Door_close_2_15749F7C.wem</Path>
+				</File>
+				<File Id="1037156008" Language="SFX">
+					<ShortName>KBMH_Door_Open_2.wav</ShortName>
+					<Path>SFX\KBMH_Door_Open_2_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
